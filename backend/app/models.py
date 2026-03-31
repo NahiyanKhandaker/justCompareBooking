@@ -10,3 +10,4 @@ class Hotel(Base):
     name = Column(String)
     city = Column(String)
     price = Column(Integer)
+
